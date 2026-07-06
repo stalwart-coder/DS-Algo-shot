@@ -1,0 +1,1 @@
+* bubble sort follows stable sort. because 2 duplicate elements remain same position after the sorting.
